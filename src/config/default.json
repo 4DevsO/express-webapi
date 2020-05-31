@@ -1,0 +1,6 @@
+{
+  "api": {
+    "base_path": "/api/v1",
+    "swagger_path": "/api/v1/docs"
+  }
+}
