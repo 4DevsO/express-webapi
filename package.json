@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "bunyan": "^1.8.12",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-mung": "^0.5.1",
     "express-unless": "^0.5.0",
     "http-status-codes": "^1.4.0",
